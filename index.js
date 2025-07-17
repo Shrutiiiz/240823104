@@ -51,3 +51,38 @@
 // {
 //   console.log("3 x" ,i, "=" ,n * i);
 // }
+
+// 7. Reverse a Number
+// const n = 123456;
+// const rn = n.toString().split("").reverse().join("");
+// console.log("Reversed Number:", rn);
+
+// 8. Palindrome Check (Number)
+// const n = 12321;
+// const rn = n.toString().split("").reverse().join("");
+// if (n == rn) 
+// {
+//     console.log("Number is Palindrome");
+// } else 
+// {
+//     console.log("Number is not Palindrome");
+// }
+
+// 9. Check Prime Number
+// let n = 13;
+// let count = 0;
+// for (let i = 1; i <= n; i++) 
+// {
+//     if (n % i == 0) 
+//     {
+//         count ++;
+//     }
+// }
+// if (count == 2) 
+// {
+//     console.log("It's Prime Number");
+// } 
+// else
+// {
+//     console.log("It's Not Prime Number");
+// }
