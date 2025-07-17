@@ -44,3 +44,10 @@
 //     factorial *= i;
 // }
 // console.log("Factorial is:", factorial); 
+
+// 6. Print Multiplication Table
+// const n = 3;
+// for (let i = 1; i <= 10; i++) 
+// {
+//   console.log("3 x" ,i, "=" ,n * i);
+// }
