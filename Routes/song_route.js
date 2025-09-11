@@ -1,6 +1,6 @@
 const express = require("express");
 const Router = express.Router();
-const songController = require("../Controllers/song_controller");
+const songController = require("../Controller/song_controller");
 const {
   createValidator,
   updateValidator,
